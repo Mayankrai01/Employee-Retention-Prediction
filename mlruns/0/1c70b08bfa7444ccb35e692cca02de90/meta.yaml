@@ -1,0 +1,15 @@
+artifact_uri: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns/0/1c70b08bfa7444ccb35e692cca02de90/artifacts
+end_time: 1692850263945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c70b08bfa7444ccb35e692cca02de90
+run_name: capable-croc-508
+run_uuid: 1c70b08bfa7444ccb35e692cca02de90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692850263416
+status: 3
+tags: []
+user_id: Mayank

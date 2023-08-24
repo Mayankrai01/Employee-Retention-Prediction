@@ -1,0 +1,15 @@
+artifact_uri: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns/0/3c422a04a22d409194f9c5d7f2998dfd/artifacts
+end_time: 1692852766327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c422a04a22d409194f9c5d7f2998dfd
+run_name: thundering-snail-758
+run_uuid: 3c422a04a22d409194f9c5d7f2998dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692852766169
+status: 4
+tags: []
+user_id: Mayank

@@ -32,4 +32,6 @@ model:
   path: ${model.dir}/${model.name}
 
 
-mlflow_tracking_ui: https://dagshub.com/khuyentran1401/employee-future-prediction.mlflow
+mlflow_tracking_ui: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns
+mlflow_USERNAME: Mayankrai01
+mlflow_PASSWORD: XX

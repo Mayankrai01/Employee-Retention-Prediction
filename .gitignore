@@ -93,3 +93,6 @@ target/
 outputs
 /models
 venv
+data/ 
+/output/ 
+__pycache__/ 

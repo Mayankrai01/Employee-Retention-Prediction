@@ -1,0 +1,15 @@
+artifact_uri: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns/0/cc51181533bb4e0b9c3fbb67c819eb0a/artifacts
+end_time: 1692850061864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc51181533bb4e0b9c3fbb67c819eb0a
+run_name: resilient-worm-370
+run_uuid: cc51181533bb4e0b9c3fbb67c819eb0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692850061250
+status: 3
+tags: []
+user_id: Mayank

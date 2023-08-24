@@ -1,0 +1,15 @@
+artifact_uri: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns/0/0dd72242d69946a5815a25671690a765/artifacts
+end_time: 1692853027449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd72242d69946a5815a25671690a765
+run_name: upset-eel-144
+run_uuid: 0dd72242d69946a5815a25671690a765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692853023581
+status: 3
+tags: []
+user_id: Mayank

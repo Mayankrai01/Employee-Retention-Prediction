@@ -2,7 +2,7 @@
 name = "employee-future-prediction"
 version = "0.1.0"
 description = ""
-authors = ["Khuyen Tran"]
+authors = ["Mayank"]
 
 [tool.poetry.dependencies]
 python = "^3.8"

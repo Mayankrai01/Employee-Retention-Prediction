@@ -1,0 +1,15 @@
+artifact_uri: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns/0/90b7b7c9609f4c868222e3f83bda6a5a/artifacts
+end_time: 1692852664293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90b7b7c9609f4c868222e3f83bda6a5a
+run_name: receptive-pug-182
+run_uuid: 90b7b7c9609f4c868222e3f83bda6a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692852664150
+status: 4
+tags: []
+user_id: Mayank
