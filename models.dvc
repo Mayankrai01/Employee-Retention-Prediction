@@ -1,0 +1,6 @@
+outs:
+- md5: d935e1be8e61def19ccd61478bc3b106.dir
+  size: 18245
+  nfiles: 1
+  hash: md5
+  path: models
