@@ -3,7 +3,7 @@ import hydra
 import joblib
 from hydra.utils import to_absolute_path as abspath
 from omegaconf import DictConfig
-
+##ok
 
 def load_model(model_path: str):
     return joblib.load(model_path)
