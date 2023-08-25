@@ -97,3 +97,5 @@ data/
 /output/ 
 __pycache__/ 
 /data
+data/ 
+outputs/ 

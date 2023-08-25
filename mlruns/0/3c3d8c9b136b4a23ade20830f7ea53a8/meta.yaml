@@ -1,0 +1,15 @@
+artifact_uri: file:\D:\ML PROJECTS\Employee-Prediction\employee-future-prediciton\mlruns/0/3c3d8c9b136b4a23ade20830f7ea53a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c3d8c9b136b4a23ade20830f7ea53a8
+run_name: lyrical-shark-690
+run_uuid: 3c3d8c9b136b4a23ade20830f7ea53a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692859378277
+status: 1
+tags: []
+user_id: Mayank

@@ -50,10 +50,7 @@ def transform_data(df: pd.DataFrame):
     dummy_X = rename_columns(dummy_X)
     return dummy_X.iloc[0, :].values.reshape(1, -1)
 
-
-model = bentoml.picklable_model.load_runner(
-    f"{MODEL_NAME}:latest", method_name="predict"
-)
+model = bentoml.sklearn.get(f"{MODEL_NAME}:latest").to_runner()
 # Create service with the model
 service = bentoml.Service("predict_employee", runners=[model])
 
